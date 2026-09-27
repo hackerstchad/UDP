@@ -22,8 +22,7 @@
 11. [Livres recommandés](#11-livres-recommandés)
 12. [Cours en ligne](#12-cours-en-ligne)
 13. [Outils de lab et simulation](#13-outils-de-lab-et-simulation)
-14. [Ressources en ligne (1000+)](#14-ressources-en-ligne-1000+)
-15. [Glossaire](#15-glossaire)
+14. [Glossaire](#15-glossaire)
 
 ---
 
